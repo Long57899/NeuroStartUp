@@ -1,1 +1,1 @@
-# This is frase of HomeWork!
+# This is a phrase for HomeWork!
